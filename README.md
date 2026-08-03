@@ -7,7 +7,7 @@ A simple terminal weather application built with Python using the Open-Meteo API
 -  Search weather by city
 -  Automatic city coordinate lookup
 -  Current temperature
--  Apparent ("feels like") temperature
+-  Apparent (feels like) temperature
 -  Wind speed
 -  Humidity
 -  Weather condition
